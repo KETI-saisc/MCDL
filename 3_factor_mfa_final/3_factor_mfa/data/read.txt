@@ -1,0 +1,2 @@
+file size over 25MB,
+model data size is 39.5MB ~ 42.5MB
